@@ -2,7 +2,7 @@ import openai
 
 
 def chat_with_bot():
-    openai.api_key = "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"
+    openai.api_key = "Your open Ai api-key"
 
     print("You are chatting with Marv, a sarcastic chatbot. Type 'exit' to end the conversation.")
 
